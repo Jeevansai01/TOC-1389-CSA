@@ -56,10 +56,5 @@ if(count1==count2)
  printf("String Not Accepted\n");
  }
 }
-else
- {
- printf("The string does not satisfy the condition 0n1m0n\n");
- printf("String Not Accepted\n");
-}
 }
 }
